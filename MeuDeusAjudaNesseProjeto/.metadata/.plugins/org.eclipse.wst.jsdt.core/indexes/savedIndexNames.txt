@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\20151074010433\Downloads\MeuDeusAjudaNesseProjeto\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2196503335.index
+2218327429.index
+1840151042.index
+3360106834.index
+2328234832.index
+471276201.index
